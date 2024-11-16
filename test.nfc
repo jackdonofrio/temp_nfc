@@ -1,0 +1,68 @@
+Filetype: Flipper NFC device
+Version: 4
+# Device type can be ISO14443-3A, ISO14443-3B, ISO14443-4A, ISO14443-4B, ISO15693-3, FeliCa, NTAG/Ultralight, Mifare Classic, Mifare DESFire, SLIX, ST25TB, EMV
+Device type: NTAG/Ultralight
+# UID is common for all formats
+UID: 04 A7 8B 62 C2 1B 90
+# ISO14443-3A specific data
+ATQA: 00 44
+SAK: 00
+# NTAG/Ultralight specific data
+Data format version: 2
+NTAG/Ultralight type: NTAG213
+Signature: 66 0B 9E EB 2A AC BD 97 55 EA 77 69 D4 0D AC BF 71 A3 51 2A 7A AD 5B 80 3C D4 5D 2D 33 79 5F DA
+Mifare version: 00 04 04 02 01 00 0F 03
+Counter 0: 0
+Tearing 0: 00
+Counter 1: 0
+Tearing 1: 00
+Counter 2: 0
+Tearing 2: BD
+Pages total: 45
+Pages read: 45
+Page 0: 04 A7 8B A0
+Page 1: 62 C2 1B 90
+Page 2: 2B 48 FF FF
+Page 3: E1 10 12 00
+Page 4: 03 85 D1 01
+Page 5: 81 54 04 34
+Page 6: 61 34 62 30
+Page 7: 62 66 33 38
+Page 8: 32 31 66 38
+Page 9: 37 39 39 63
+Page 10: 63 66 32 65
+Page 11: 37 35 34 30
+Page 12: 62 32 31 65
+Page 13: 34 63 30 65
+Page 14: 30 36 32 62
+Page 15: 39 31 33 64
+Page 16: 35 30 38 32
+Page 17: 35 64 61 30
+Page 18: 64 62 35 63
+Page 19: 62 39 30 36
+Page 20: 31 61 36 66
+Page 21: 62 39 35 64
+Page 22: 35 66 62 61
+Page 23: 34 34 33 33
+Page 24: 36 65 30 62
+Page 25: 39 65 38 36
+Page 26: 63 64 35 65
+Page 27: 62 34 38 33
+Page 28: 62 34 36 36
+Page 29: 63 65 36 34
+Page 30: 35 66 63 64
+Page 31: 33 36 35 64
+Page 32: 36 35 65 31
+Page 33: 39 39 33 61
+Page 34: 62 39 64 63
+Page 35: 36 34 32 65
+Page 36: 61 30 32 39
+Page 37: 33 35 36 FE
+Page 38: 00 00 00 00
+Page 39: 00 00 00 00
+Page 40: FF 0F 3F BD
+Page 41: 04 00 00 FF
+Page 42: 40 05 00 00
+Page 43: FF FF FF FF
+Page 44: 00 00 00 00
+Failed authentication attempts: 0
